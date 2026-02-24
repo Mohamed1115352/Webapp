@@ -20,7 +20,7 @@ Systeem controleert gegevens
 Toegang wordt verleend of foutmelding verschijnt
 zeer simpele systeem en makkelijk te gebruiken.
 
-Conceptueel model: Gebruiker
+Conceptueel model
 
 Gebruiker
 
@@ -32,6 +32,8 @@ Wedstrijd
 
 TraininG.
 
+
+
 RELATIES
 Een Gebruiker beheert één of meerdere Spelersprofielen
 
@@ -42,6 +44,10 @@ Een Wedstrijd koppelt twee Teams
 Een Speler neemt deel aan meerdere Trainingen
 
 
+
+
+
+
 Visuele interface: zeer scherp en modern een echte sportapp look <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/ffa5ce67-3f7a-44f3-84a8-4c7abfb8e4d7" />
 
 Use case diagram: wie er met het systeem werkt (actoren)
@@ -50,6 +56,10 @@ wat ze ermee doen
 Het debuggen en zorgen dat alles vlot werkt
 hoe ze ermee interageren
 alles juist en modern integreren
+
+
+
+
 
 Activity diagram
 Gebruiker opent loginpagina
@@ -68,6 +78,6 @@ Indien fout → foutmelding verschijnt
 
 
 
+
 Class diagram
 Het legt uit hoe de klassen zoals Speler, Team en Wedstrijd in de code zijn opgebouwd en hoe ze met elkaar samenwerken in het systeem.
-
