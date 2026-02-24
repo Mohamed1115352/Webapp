@@ -1,7 +1,7 @@
 # Webapp
 Voetbal/Sport 
 
-Uitleg van mijn opdracht: Mijn webapp is een sport? voetbal webapp die alle data en progressie van uw training bijhoud.
+Uitleg van mijn opdracht: Mijn webapp is een sport/voetbal webapp die alle data en progressie van uw training bijhoud.
 
 Product beschrijving.
 Ik maak dit voor alle sportliefhebbers en mensen die graag bewegen.
