@@ -42,7 +42,8 @@ Visuele interface
 
 Scherp, modern design met een echte sportapp-look.
 
-(Plaats hier je afbeelding)
+(<img width="295" height="171" alt="image" src="https://github.com/user-attachments/assets/aa8941c9-3950-4b78-b375-8824a7eb3f5d" />
+)
 
 Use case
 
