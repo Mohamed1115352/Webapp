@@ -30,7 +30,16 @@ Team
 
 Wedstrijd
 
-Training
+TraininG.
+
+RELATIES
+Een Gebruiker beheert één of meerdere Spelersprofielen
+
+Een Team bevat meerdere Spelers
+
+Een Wedstrijd koppelt twee Teams
+
+Een Speler neemt deel aan meerdere Trainingen
 
 
 Visuele interface: zeer scherp en modern een echte sportapp look <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/ffa5ce67-3f7a-44f3-84a8-4c7abfb8e4d7" />
