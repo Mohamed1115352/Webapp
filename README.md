@@ -36,13 +36,6 @@ Gebruiker → logt in → dashboard → training toevoegen → statistieken beki
 ---
 
 ## **Personas**
-
-**Recreatieve sporter**  
-- Wil trainingen bijhouden  
-- Wil progressie zien  
-
-**Competitieve speler**  
-
 Persona 1 – Student sporter
 
 Leeftijd: 19 jaar
