@@ -1,67 +1,103 @@
 # Webapp
-⚽ Webapp
+# ⚽ Webapp – Voetbal / Sport
 
-Voetbal / Sport
+## **Productvisie**
+Een simpele sportwebapp die trainingen en progressie bijhoudt.
 
-Uitleg opdracht
+---
 
-Mijn webapp is een sport/voetbal webapp die alle data en progressie van je trainingen bijhoudt.
+## **Productbeschrijving**
 
-Productbeschrijving
+**Wat:**  
+Een webapp om trainingsdata te registreren.
 
-Ik maak dit voor sportliefhebbers en mensen die graag bewegen.
-Voordelen: je houdt al je info en progressie bij en kan je prestaties analyseren.
+**Voor wie:**  
+Sporters en voetballers.
 
-User Story (Login)
+**Waarom:**  
+Om progressie te zien en prestaties te analyseren.
 
-Gebruiker opent de website
-Klikt op “Inloggen”
-Voert e-mail en wachtwoord in
-Klikt op “Login”
-Systeem controleert gegevens
-Toegang wordt verleend of foutmelding verschijnt
+---
 
-Zeer simpel en makkelijk te gebruiken systeem.
+## **User Story Mapping**
 
-Conceptueel model
+- Gebruiker opent website  
+- Klikt op **Inloggen**  
+- Voert e-mail en wachtwoord in  
+- Systeem controleert gegevens  
+- Toegang of foutmelding  
 
-Objecten:
-Gebruiker
-Speler
-Team
-Wedstrijd
-Training
+---
 
-Relaties:
-Een Gebruiker beheert één of meerdere Spelers
-Een Team bevat meerdere Spelers
-Een Wedstrijd koppelt twee Teams
-Een Speler neemt deel aan meerdere Trainingen
+## **Visualisatie & workflows**
 
-Visuele interface
+Gebruiker → logt in → dashboard → training toevoegen → statistieken bekijken.
 
-Scherp, modern design met een echte sportapp-look.
+---
 
-(<img width="295" height="171" alt="image" src="https://github.com/user-attachments/assets/aa8941c9-3950-4b78-b375-8824a7eb3f5d" />
-)
+## **Personas**
 
-Use case
+**Recreatieve sporter**  
+- Wil trainingen bijhouden  
+- Wil progressie zien  
 
-Actoren:
-Gebruiker
-Development team
+**Competitieve speler**  
+- Wil prestaties analyseren  
+- Wil verbeteren  
 
-Gebruiker → inloggen, trainingen bekijken en registreren
-Development team → debuggen en zorgen dat alles correct werkt
+---
 
-Activity diagram (Login)
+## **Conceptueel model**
 
-Gebruiker opent loginpagina
-Voert gegevens in
-Systeem valideert
-Correct → dashboard
-Fout → foutmelding
+**Objecten:**  
+Gebruiker  
+Speler  
+Team  
+Wedstrijd  
+Training  
 
-Class diagram
+**Relaties:**  
+Gebruiker beheert Spelers  
+Team bevat Spelers  
+Wedstrijd koppelt Teams  
+Speler heeft Trainingen  
 
-Toont hoe klassen zoals Speler, Team en Wedstrijd in de code zijn opgebouwd en samenwerken.
+---
+
+## **Functionele analyse**
+
+- Inloggen  
+- Training toevoegen  
+- Training bekijken  
+- Statistieken zien  
+
+---
+
+## **Wireframes**
+
+Login scherm  
+Dashboard  
+Training toevoegen  
+Profiel  
+
+---
+
+## **Use Case Diagram**
+
+**Actoren:**  
+Gebruiker  
+Development team  
+
+Gebruiker → gebruikt app  
+Development team → onderhoud en debug  
+
+---
+
+## **Activity Diagram**
+
+Gebruiker logt in → systeem controleert → dashboard of foutmelding.
+
+---
+
+## **Class Diagram**
+Toont hoe Gebruiker, Speler, Team, Wedstrijd en Training in de code met elkaar verbonden zijn.
