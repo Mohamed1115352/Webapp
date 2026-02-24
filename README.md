@@ -22,11 +22,15 @@ zeer simpele systeem en makkelijk te gebruiken.
 
 Conceptueel model: Gebruiker
 
-Product
+Gebruiker
 
-Bestelling
+Speler
 
-Betaling
+Team
+
+Wedstrijd
+
+Training
 
 
 Visuele interface: zeer scherp en modern een echte sportapp look <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/ffa5ce67-3f7a-44f3-84a8-4c7abfb8e4d7" />
