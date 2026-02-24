@@ -30,3 +30,31 @@ Betaling
 
 
 Visuele interface: zeer scherp en modern een echte sportapp look <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/ffa5ce67-3f7a-44f3-84a8-4c7abfb8e4d7" />
+
+Use case diagram: wie er met het systeem werkt (actoren)
+Ik en het development team
+wat ze ermee doen
+Het debuggen en zorgen dat alles vlot werkt
+hoe ze ermee interageren
+alles juist en modern integreren
+
+Activity diagram
+Gebruiker opent loginpagina
+
+Gebruiker vult e-mail en wachtwoord in
+
+Gebruiker klikt op “Inloggen”
+
+Systeem valideert invoer
+
+Systeem controleert gegevens in database
+
+Indien correct → gebruiker wordt doorgestuurd naar dashboard
+
+Indien fout → foutmelding verschijnt
+
+
+
+Class diagram
+Het legt uit hoe de klassen zoals Speler, Team en Wedstrijd in de code zijn opgebouwd en hoe ze met elkaar samenwerken in het systeem.
+
