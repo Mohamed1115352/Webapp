@@ -43,7 +43,28 @@ Gebruiker → logt in → dashboard → training toevoegen → statistieken beki
 
 **Competitieve speler**  
 - Wil prestaties analyseren  
-- Wil verbeteren  
+- Wil verbeteren
+
+    Persona 3 – Student sporter
+
+Leeftijd: 19 jaar
+Doel: Fit blijven naast studies
+Behoefte: Snel trainingen registreren
+Pijnpunt: Weinig tijd, wil eenvoudige app
+
+Persona 4 – Amateur trainer
+
+Leeftijd: 28 jaar
+Doel: Spelers opvolgen
+Behoefte: Overzicht van prestaties
+Pijnpunt: Moeilijk om progressie van iedereen apart bij te houden
+
+Persona 5 – Gemotiveerde beginner
+
+Leeftijd: 23 jaar
+Doel: Beter worden in voetbal
+Behoefte: Duidelijke progressie en statistieken
+Pijnpunt: Weet niet of hij vooruitgaat zonder cijfers
 
 ---
 
